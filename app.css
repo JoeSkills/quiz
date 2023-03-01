@@ -18,7 +18,7 @@ h5 {
 }
 h1 {
   font-size: 5.4rem;
-  color: #56a5eb;
+  color: #28a745;
   margin-bottom: 5rem;
 }
 h1 > span {
@@ -69,15 +69,15 @@ h3 {
   padding: 1rem 0;
   width: 20rem;
   text-align: center;
-  border: 0.1rem solid #56a5eb;
+  border: 0.1rem solid #28a745;
   margin-bottom: 1rem;
   text-decoration: none;
-  color: #56a5eb;
+  color: #28a745;
   background-color: white;
 }
 .btn:hover {
   cursor: pointer;
-  box-shadow: 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+  box-shadow: 0.4rem 1.4rem 0 rgba(86, 235, 190, 0.5);
   transform: translateX(-0.1rem);
   transition: transform 150ms;
 }
@@ -98,7 +98,7 @@ input {
   padding: 1.5rem;
   font-size: 1.8rem;
   border: none;
-  box-shadow: 0 0.1rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+  box-shadow: 0 0.1rem 1.4rem 0 rgba(86, 235, 190, 0.5);
 }
 input::placeholder {
   color: #aaa;
